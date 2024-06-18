@@ -1,1 +1,1 @@
-ATM Interface is a console-based project with 6ix different classes.
+ATM Interface is a console-based project with six different classes.
